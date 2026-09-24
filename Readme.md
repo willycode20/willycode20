@@ -37,4 +37,4 @@ research across:
 My publicly disclosed security findings and contest results are
 documented in my Security Research repository.
 
-→ [View Security Research](LINK-TO-REPOSITORY)
+→ [View Security Research](https://github.com/willycode20/Security-Research)
